@@ -120,11 +120,5 @@ Edappally → Kochi
 
 ---
 
-# Run the Project
-
-## Install dependencies
-
-```bash
-pip install -r requirements.txt
 
 
