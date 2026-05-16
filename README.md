@@ -82,6 +82,7 @@ https://restcountries.com
 
 # Project Structure
 
+```plaintext
 weather-dashboard/
 │
 ├── app.py
@@ -92,8 +93,7 @@ weather-dashboard/
     ├── geocoding.py
     ├── weather.py
     └── country.py
-
----
+```
 
 # Challenges Faced
 
